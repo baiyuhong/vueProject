@@ -1,0 +1,6 @@
+/*改变默认switch 风格*/
+.mint-switch-input:checked + .mint-switch-core {
+  border-color: #56b9be !important;
+  background-color: #56b9be !important;
+}
+
